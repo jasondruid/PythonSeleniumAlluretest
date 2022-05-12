@@ -1,0 +1,181 @@
+[ {
+  "uid" : "59e7671f2cb07bd5",
+  "name" : "test_selectCars[firefox-Hyundai-Hyundai Cars]",
+  "time" : {
+    "start" : 1652394072770,
+    "stop" : 1652394072770,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1c2aabaea356b51c",
+  "name" : "test_printCarNamesandPrices[firefox-Hyundai-Hyundai Cars]",
+  "time" : {
+    "start" : 1652394072810,
+    "stop" : 1652394072810,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "433c28968f59b26e",
+  "name" : "test_selectCars[firefox-Toyota-Toyota Cars]",
+  "time" : {
+    "start" : 1652394072775,
+    "stop" : 1652394072775,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3cd30bc093e9307e",
+  "name" : "test_selectCars[chrome-Honda-Honda Cars]",
+  "time" : {
+    "start" : 1652394072760,
+    "stop" : 1652394072760,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3be021b993b83dc3",
+  "name" : "test_selectCars[chrome-Toyota-Toyota Cars]",
+  "time" : {
+    "start" : 1652394090750,
+    "stop" : 1652394090750,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e247b745d94a7fa2",
+  "name" : "test_printCarNamesandPrices[chrome-BMW-BMW Cars]",
+  "time" : {
+    "start" : 1652394072780,
+    "stop" : 1652394072780,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "85e9571a9a4ffdf5",
+  "name" : "test_printCarNamesandPrices[firefox-Toyota-Toyota Cars]",
+  "time" : {
+    "start" : 1652394072810,
+    "stop" : 1652394072810,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f7569d6b73d17f35",
+  "name" : "test_gotoNewCar[firefox]",
+  "time" : {
+    "start" : 1652394084800,
+    "stop" : 1652394089843,
+    "duration" : 5043
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3acaddf78b8cc107",
+  "name" : "test_selectCars[firefox-Honda-Honda Cars]",
+  "time" : {
+    "start" : 1652394072780,
+    "stop" : 1652394072780,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ae73151f172ff7fd",
+  "name" : "test_selectCars[chrome-BMW-BMW Cars]",
+  "time" : {
+    "start" : 1652394072760,
+    "stop" : 1652394072760,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "777b6e2e05ff9fce",
+  "name" : "test_printCarNamesandPrices[chrome-Toyota-Toyota Cars]",
+  "time" : {
+    "start" : 1652394072795,
+    "stop" : 1652394072795,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8840307e1423b41b",
+  "name" : "test_selectCars[firefox-BMW-BMW Cars]",
+  "time" : {
+    "start" : 1652394072760,
+    "stop" : 1652394072760,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2a9f10078d85d62f",
+  "name" : "test_printCarNamesandPrices[chrome-Hyundai-Hyundai Cars]",
+  "time" : {
+    "start" : 1652394072790,
+    "stop" : 1652394072790,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "afd521be783fce22",
+  "name" : "test_printCarNamesandPrices[firefox-Honda-Honda Cars]",
+  "time" : {
+    "start" : 1652394072810,
+    "stop" : 1652394072810,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a7b41c0fb13f49fb",
+  "name" : "test_gotoNewCar[chrome]",
+  "time" : {
+    "start" : 1652394079320,
+    "stop" : 1652394082780,
+    "duration" : 3460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1586f2fa7939c1c",
+  "name" : "test_selectCars[chrome-Hyundai-Hyundai Cars]",
+  "time" : {
+    "start" : 1652394084941,
+    "stop" : 1652394084941,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8f6762b3c2780a4a",
+  "name" : "test_printCarNamesandPrices[chrome-Honda-Honda Cars]",
+  "time" : {
+    "start" : 1652394072800,
+    "stop" : 1652394072800,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5a15f1ee652f0803",
+  "name" : "test_printCarNamesandPrices[firefox-BMW-BMW Cars]",
+  "time" : {
+    "start" : 1652394072805,
+    "stop" : 1652394072805,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

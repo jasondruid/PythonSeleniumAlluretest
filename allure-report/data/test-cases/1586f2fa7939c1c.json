@@ -1,0 +1,124 @@
+{
+  "uid" : "1586f2fa7939c1c",
+  "name" : "test_selectCars[chrome-Hyundai-Hyundai Cars]",
+  "fullName" : "test_carwale.Test_CarWale#test_selectCars",
+  "historyId" : "80180442785f2791acac56626011e304",
+  "time" : {
+    "start" : 1652394084941,
+    "stop" : 1652394084941,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('G:\\\\Folders\\\\Documentos\\\\JAAR\\\\JASON\\\\Python\\\\seleniumexamples\\\\PageObjectModelFramework\\\\Testcases\\\\test_carwale.py', 30, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_CarWale"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ELVTNJE"
+  }, {
+    "name" : "thread",
+    "value" : "16360-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carBrand",
+    "value" : "'Hyundai'"
+  }, {
+    "name" : "carTitle",
+    "value" : "'Hyundai Cars'"
+  }, {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "52a9f900bbd45e78",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652393848811,
+        "stop" : 1652393848811,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7c537480558147ad",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652386786753,
+        "stop" : 1652386786753,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "76d68307b54d103f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652386611824,
+        "stop" : 1652386611824,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bec52a156e3be105",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652386532291,
+        "stop" : 1652386532291,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d778f6337bafb3f6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652385157923,
+        "stop" : 1652385157923,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a9c2581ef358e042",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652377160950,
+        "stop" : 1652377160950,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip", "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "1586f2fa7939c1c.json",
+  "parameterValues" : [ "'Hyundai'", "'Hyundai Cars'", "'chrome'" ]
+}

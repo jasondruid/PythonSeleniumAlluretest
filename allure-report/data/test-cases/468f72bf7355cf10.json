@@ -1,0 +1,133 @@
+{
+  "uid" : "468f72bf7355cf10",
+  "name" : "test_gotoNewCar[chrome]",
+  "fullName" : "test_carwale.Test_CarWale#test_gotoNewCar",
+  "historyId" : "c30b1229e2523553c67b9eff84c2c693",
+  "time" : {
+    "start" : 1652393843271,
+    "stop" : 1652393846692,
+    "duration" : 3421
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1652393836201,
+      "stop" : 1652393843271,
+      "duration" : 7070
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1652393843271,
+      "stop" : 1652393843271,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ca02bb6246dc734",
+      "name" : "log",
+      "source" : "2ca02bb6246dc734.txt",
+      "type" : "text/plain",
+      "size" : 682
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1652393846694,
+      "stop" : 1652393848805,
+      "duration" : 2111
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1652393846693,
+      "stop" : 1652393846693,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_CarWale"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ELVTNJE"
+  }, {
+    "name" : "thread",
+    "value" : "16248-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "468f72bf7355cf10.json",
+  "parameterValues" : [ "'chrome'" ]
+}

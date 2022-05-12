@@ -1,0 +1,124 @@
+{
+  "uid" : "85e9571a9a4ffdf5",
+  "name" : "test_printCarNamesandPrices[firefox-Toyota-Toyota Cars]",
+  "fullName" : "test_carwale.Test_CarWale#test_printCarNamesandPrices",
+  "historyId" : "7671f3462d9123a7ee0997ebdc347bbf",
+  "time" : {
+    "start" : 1652394072810,
+    "stop" : 1652394072810,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('G:\\\\Folders\\\\Documentos\\\\JAAR\\\\JASON\\\\Python\\\\seleniumexamples\\\\PageObjectModelFramework\\\\Testcases\\\\test_carwale.py', 61, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_CarWale"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ELVTNJE"
+  }, {
+    "name" : "thread",
+    "value" : "16364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carBrand",
+    "value" : "'Toyota'"
+  }, {
+    "name" : "carTitle",
+    "value" : "'Toyota Cars'"
+  }, {
+    "name" : "get_browser",
+    "value" : "'firefox'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bbddd9ffc745305d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652393836271,
+        "stop" : 1652393836271,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aef89b7550e86085",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652386774437,
+        "stop" : 1652386774437,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "52f4625edfa2ce9a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652386599788,
+        "stop" : 1652386599788,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bdc58547fb1585b7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652386519919,
+        "stop" : 1652386519919,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cff016d5ea9b6142",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652385145061,
+        "stop" : 1652385145061,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "95c7480956a952b7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1652377148704,
+        "stop" : 1652377148704,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip", "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "85e9571a9a4ffdf5.json",
+  "parameterValues" : [ "'Toyota'", "'Toyota Cars'", "'firefox'" ]
+}

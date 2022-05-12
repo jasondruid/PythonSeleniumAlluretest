@@ -1,0 +1,6 @@
+
+
+====== WebDriver manager ======
+Current firefox version is 100.0
+Get LATEST geckodriver version for 100.0 firefox
+Driver [C:\Users\JAAR\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache

@@ -1,0 +1,9 @@
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current google-chrome version is 101.0.4951
+[32mINFO    [0m WDM:logger.py:26 Get LATEST chromedriver version for 101.0.4951 google-chrome
+[32mINFO    [0m WDM:logger.py:26 Driver [C:\Users\JAAR\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+[32mINFO    [0m Testcases.test_carwale:test_carwale.py:25 ******Inside New Car Test*********
+[32mINFO    [0m Pages.BasePage:BasePage.py:61 Moving to an element: newCar_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an element: findNewCars_XPATH

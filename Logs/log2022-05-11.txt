@@ -1,0 +1,138 @@
+2022-05-11 12:14:29,011 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 12:14:57,209 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 12:15:41,830 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 12:15:41,907 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 12:15:41,989 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 12:15:42,077 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 12:15:42,117 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 12:15:42,180 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 12:15:42,246 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 12:15:42,305 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 12:15:42,365 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-05-11 12:15:42,365 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-05-11 12:15:59,197 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 12:15:59,257 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 12:15:59,272 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 12:15:59,315 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 12:15:59,337 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 12:15:59,353 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 12:15:59,370 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 12:15:59,385 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 12:17:37,939 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 12:17:38,022 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 12:17:38,119 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 12:17:38,203 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 12:17:38,249 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 12:17:38,308 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 12:17:38,374 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 12:17:38,438 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 12:17:38,494 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-05-11 12:17:38,495 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-05-11 12:17:55,703 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 12:17:55,743 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 12:17:55,759 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 12:17:55,780 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 12:17:55,797 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 12:17:55,811 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 12:17:55,828 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 12:17:55,844 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 12:17:56,079 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-05-11 12:17:56,079 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-05-11 14:29:09,378 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 14:29:09,450 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 14:29:09,463 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 14:29:09,482 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 14:29:09,497 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 14:29:09,505 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 14:29:09,519 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 14:29:09,529 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 14:31:35,280 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 14:31:35,362 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 14:31:35,442 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 14:31:35,528 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 14:31:35,618 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 14:31:35,677 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 14:31:35,748 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 14:31:35,811 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 14:31:35,870 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-05-11 14:31:35,870 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-05-11 14:31:51,922 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 14:31:51,973 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 14:31:51,988 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 14:31:52,006 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 14:31:52,023 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 14:31:52,035 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 14:31:52,047 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 14:31:52,058 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 14:32:12,772 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 14:32:12,856 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 14:32:12,931 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 14:32:13,017 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 14:32:13,056 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 14:32:13,114 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 14:32:13,179 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 14:32:13,239 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 14:32:13,295 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-05-11 14:32:13,295 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-05-11 14:32:29,589 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-05-11 14:32:29,638 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-05-11 14:32:29,654 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-05-11 14:32:29,678 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2022-05-11 14:32:29,696 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-05-11 14:32:29,709 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-05-11 14:32:29,727 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2022-05-11 14:32:29,742 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-05-11 14:32:29,991 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-05-11 14:32:29,991 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-05-11 18:09:27,442 - test_carwale.py:[26] - [INFO] - ******Inside New Car Test*********
+2022-05-11 18:09:27,724 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 18:09:53,452 - test_carwale.py:[26] - [INFO] - ******Inside New Car Test*********
+2022-05-11 18:09:53,760 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 18:09:54,150 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 18:11:02,473 - test_carwale.py:[26] - [INFO] - ******Inside New Car Test*********
+2022-05-11 18:11:02,768 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 18:11:02,872 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 18:11:19,716 - test_carwale.py:[26] - [INFO] - ******Inside New Car Test*********
+2022-05-11 18:11:20,016 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 18:11:20,381 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:31:53,130 - test_carwale.py:[25] - [INFO] - ******Inside New Car Test*********
+2022-05-11 20:31:53,431 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:31:53,599 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:32:10,756 - test_carwale.py:[25] - [INFO] - ******Inside New Car Test*********
+2022-05-11 20:32:11,057 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:32:11,530 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:32:43,623 - test_carwale.py:[25] - [INFO] - ******Inside New Car Test*********
+2022-05-11 20:32:43,936 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:32:44,068 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:33:00,493 - test_carwale.py:[25] - [INFO] - ******Inside New Car Test*********
+2022-05-11 20:33:00,799 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:33:01,284 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:33:10,943 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:33:11,237 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:33:11,334 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:33:12,145 - BasePage.py:[23] - [INFO] - Clicking on an element: Bmw_XPATH
+2022-05-11 20:33:20,940 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:33:21,241 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:33:21,388 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:33:22,772 - BasePage.py:[23] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-05-11 20:33:32,330 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:33:32,611 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:33:32,718 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:33:33,524 - BasePage.py:[23] - [INFO] - Clicking on an element: toyota_XPATH
+2022-05-11 20:33:42,390 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:33:42,704 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:33:42,804 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:33:43,588 - BasePage.py:[23] - [INFO] - Clicking on an element: honda_XPATH
+2022-05-11 20:33:58,012 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:33:58,285 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:33:59,365 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:34:00,106 - BasePage.py:[23] - [INFO] - Clicking on an element: Bmw_XPATH
+2022-05-11 20:34:13,432 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:34:13,727 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:34:17,758 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:34:30,399 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:34:30,690 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:34:32,864 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
+2022-05-11 20:34:44,936 - test_carwale.py:[34] - [INFO] - ******Inside Select Cars Test*********
+2022-05-11 20:34:45,230 - BasePage.py:[61] - [INFO] - Moving to an element: newCar_XPATH
+2022-05-11 20:34:52,141 - BasePage.py:[23] - [INFO] - Clicking on an element: findNewCars_XPATH
